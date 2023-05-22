@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="800"
+   height="800"
+   viewBox="0 0 800 800"
+   sodipodi:docname="BRC_1stFloor_meetingRooms_clean-plain.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="0.35011574"
+     inkscape:cx="1729.4281"
+     inkscape:cy="1151.0479"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs6" />
+  <g
+     id="g10"
+     transform="matrix(1.3333333,0,0,-1.3333333,-1648.0264,578.8562)">
+    <rect
+       style="fill:#05ff00;fill-opacity:1;stroke:#c41111;stroke-width:0.743265;stroke-opacity:1"
+       id="rect172"
+       width="59.24651"
+       height="35.08292"
+       x="1310.0421"
+       y="-349.87616"
+       transform="scale(1,-1)"
+       meetingRoomName="Room 2" />
+    <rect
+       style="fill:#05ff00;fill-opacity:1;stroke:#c41111;stroke-width:0.737633;stroke-opacity:1"
+       id="rect172-8"
+       width="58.342758"
+       height="35.088551"
+       x="1369.9707"
+       y="-349.85995"
+       transform="scale(1,-1)"
+       meetingRoomUPN="testRoom1@boehringer-ingelheim.com"
+       meetingRoomName="Room 1" />
+    <rect
+       style="fill:#05ff00;fill-opacity:1;stroke:#c41111;stroke-width:0.538139;stroke-opacity:1"
+       id="rect172-8-4-5"
+       width="28.779123"
+       height="37.860168"
+       x="1340.6519"
+       y="-314.16577"
+       transform="scale(1,-1)"
+       meetingRoomName="Room 4" />
+    <rect
+       style="fill:#05ff00;fill-opacity:1;stroke:#c41111;stroke-width:0.531336;stroke-opacity:1"
+       id="rect172-8-4-5-0"
+       width="28.051035"
+       height="37.86697"
+       x="1369.9275"
+       y="-314.14264"
+       transform="scale(1,-1)"
+       meetingRoomName="Room 5" />
+    <rect
+       style="fill:#05ff00;fill-opacity:1;stroke:#c41111;stroke-width:0.551078;stroke-opacity:1"
+       id="rect172-8-4-5-5"
+       width="30.190035"
+       height="37.847229"
+       x="1309.8926"
+       y="-314.15967"
+       transform="scale(1,-1)"
+       meetingRoomName="Room 3" />
+    <rect
+       style="fill:#05ff00;fill-opacity:1;stroke:#c41111;stroke-width:0.551078;stroke-opacity:1"
+       id="rect172-8-4-5-5-1"
+       width="30.190035"
+       height="37.847229"
+       x="1398.2861"
+       y="-314.17117"
+       transform="scale(1,-1)"
+       meetingRoomName="Room 6"
+       class="map-hover-svg" />
+  </g>
+</svg>
